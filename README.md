@@ -4,7 +4,7 @@ This repo is the official implementation for paper:
 
 Meta-Polyp: a baseline for efficient Polyp segmentation.
 
-Authors: Quoc-Huy Trinh
+<mark> Authors: Quoc-Huy Trinh <mark>
 
 In the IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023.
 
