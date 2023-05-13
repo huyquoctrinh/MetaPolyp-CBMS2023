@@ -4,7 +4,7 @@ This repo is the official implementation for paper:
 
 Meta-Polyp: a baseline for efficient Polyp segmentation.
 
-<mark> Authors: Quoc-Huy Trinh <mark>
+<b>Author:</b> <b>Quoc-Huy Trinh</b>
 
 In the IEEE 36th International Symposium on Computer Based Medical Systems (CBMS) 2023.
 
@@ -56,8 +56,7 @@ The following command should be used:
 python benchmark.py
 ```
 
-### Note: 
-you should fix model_path for your model path and directory to your benchmark dataset.
+<b>Note<b/> You should fix model_path for your model path and directory to your benchmark dataset.
 
 ## Pretrained weights
 
