@@ -56,7 +56,7 @@ The following command should be used:
 python benchmark.py
 ```
 
-<b>Note<b/> You should fix model_path for your model path and directory to your benchmark dataset.
+<b>Note: <b/> You should fix model_path for your model path and directory to your benchmark dataset.
 
 ## Pretrained weights
 
