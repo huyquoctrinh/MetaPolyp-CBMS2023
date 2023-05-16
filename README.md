@@ -114,6 +114,13 @@ You can change the backbone from Ca-former to PVT or something else to get diffe
 ## Citation
 
 ```
-Coming soon
+@misc{trinh2023metapolyp,
+      title={Meta-Polyp: a baseline for efficient Polyp segmentation}, 
+      author={Quoc-Huy Trinh},
+      year={2023},
+      eprint={2305.07848},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 ```
 
