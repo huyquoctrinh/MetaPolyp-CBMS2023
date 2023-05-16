@@ -65,7 +65,7 @@ The weight will be update later.
 
 ## Dataset
 
-In our experiment, we use the dataset config from (PraNet)[https://github.com/DengPingFan/PraNet], with training set from 50% of Kvasir-SEG and 50% of ClinicDB dataset. 
+In our experiment, we use the dataset config from [PraNet](https://github.com/DengPingFan/PraNet), with training set from 50% of Kvasir-SEG and 50% of ClinicDB dataset. 
 
 With our test dataset, we use the following:
 
