@@ -10,7 +10,14 @@ In the IEEE 36th International Symposium on Computer Based Medical Systems (CBMS
 
 Detail of each model modules can be found in original paper. Please citation if you use our implementation for research purpose.
 
-## Overall architecture
+## :new: News:
+- Upcoming: Update pretrained-weight
+
+- 16/05/2023: Update paper link
+
+- 13/05/2023: First commit
+
+## Overall architecture :sunny:
 
 Architecutre Meta-Polyp baseline model:
 
@@ -36,7 +43,7 @@ All packages will be automatically installed.
 
 All of configs for training and benchmark are in ```./config/``` folder. Please take a look for tuning phase.
 
-## Training
+## Training :full_moon_with_face:
 
 For training, use ``` train.py ``` file for start training.
 
@@ -111,7 +118,7 @@ Coming soon
 ## Customize
 You can change the backbone from Ca-former to PVT or something else to get different results.
 
-## Citation
+## :bookmark_tabs: Citation
 
 ```
 @misc{trinh2023metapolyp,
