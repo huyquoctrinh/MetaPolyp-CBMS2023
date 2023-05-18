@@ -6,7 +6,7 @@ import os
 from callbacks.callbacks import get_callbacks, cosine_annealing_with_warmup
 from dataloader.dataloader import build_augmenter, build_dataset, build_decoder
 # from supervision.dataloader import build_augmenter, build_dataset, build_decoder
-from model import create_segment_model, build_model
+from model import build_model
 import os 
 import tensorflow_addons as tfa  
 from optimizers.lion_opt import Lion
