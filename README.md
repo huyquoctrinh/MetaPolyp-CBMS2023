@@ -11,7 +11,9 @@ In the IEEE 36th International Symposium on Computer Based Medical Systems (CBMS
 Detail of each model modules can be found in original paper. Please citation if you use our implementation for research purpose.
 
 ## :new: News:
-- Upcoming: Update pretrained-weight
+- Upcomming: Supervision version
+
+- 19/05/2023: Update pretrained-weight
 
 - 16/05/2023: Update paper link
 
@@ -68,7 +70,10 @@ python benchmark.py
 
 ## Pretrained weights
 
-The weight will be update later.
+The pretrained weight for the MetaPolyp can found at [Google Drive](https://drive.google.com/drive/folders/1nRcTtznPQU6Exeyu6p_en3_tJKBcd2Mq?usp=share_link).
+
+<b>Note:</b> <i>For further usage, if are there any problems,  I am willing to support </i>
+
 
 ## Dataset
 
