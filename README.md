@@ -72,7 +72,7 @@ python benchmark.py
 
 The pretrained weight for the MetaPolyp can found at [Google Drive](https://drive.google.com/drive/folders/1nRcTtznPQU6Exeyu6p_en3_tJKBcd2Mq?usp=share_link).
 
-<b>Note:</b> <i>For further usage, if are there any problems,  I am willing to support </i>
+<b>Note:</b> <i>For further usage, if are there any problems,  please contact me via email from the paper, I am willing to support </i>
 
 
 ## Dataset
