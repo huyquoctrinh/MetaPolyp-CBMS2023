@@ -24,7 +24,7 @@ def build_model(img_size = 256, num_classes = 1):
         
         x = decode(x, scale = 2, filters = layer.shape[channel_axis])
         
-        layer_fusion = convformer(layer)
+        layer_fusion = convformer(layer, layer.shape[channel_axis])
         
         ## Doing multi-level concatenation
         if (i%2 == 1):
@@ -40,6 +40,7 @@ def build_model(img_size = 256, num_classes = 1):
             upscale_feature = decode(x, scale = 8, filters = layer.shape[channel_axis])
         
     filters = x.shape[channel_axis] //2
+    upscale_feature = conv_bn_act(upscale_feature, filters, 1)
     x = decode(x, filters, 4)
     x = tf.keras.layers.Add()([x, upscale_feature])
     x = conv_bn_act(x, filters, 1)
