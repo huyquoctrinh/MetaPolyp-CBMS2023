@@ -103,7 +103,7 @@ The IOU score on SOTA for both 5 datasets:
 
 <div align="center">
     <a href="./">
-        <img src="img/res.png" width="79%"/>
+        <img src="img/miccai_res_fixed.png" width="79%"/>
     </a>
 </div>
 
