@@ -13,11 +13,15 @@ Detail of each model modules can be found in original paper. Please citation if 
 ## :new: News:
 - Upcomming: Supervision version
 
+- 30/05/2023: Our paper "Meta-former UNet: Simple but effcient" is accepted EUSIPCO 2023. This is the specific concept of the Meta-former with UNet
+
 - 19/05/2023: Update pretrained-weight
 
 - 16/05/2023: Update paper link
 
 - 13/05/2023: First commit
+
+- 03/05/2023: Our paper "Meta-Polyp: a baseline for efficient Polyp segmentation" was accepted CBMS 2023.
 
 ## Overall architecture :sunny:
 
