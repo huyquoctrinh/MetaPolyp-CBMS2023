@@ -122,7 +122,7 @@ def build_dataset(paths, labels=None, bsize=32, cache=True,
     dset = dset.map(decode_fn, num_parallel_calls=AUTO)
     dset = dset.cache(cache_dir) if cache else dset
     dset = dset.map(augment_fn, num_parallel_calls=AUTO) if augment else dset
-    dset = dset.repeat() if repeat else dset
+    #dset = dset.repeat() if repeat else dset
     dset = dset.shuffle(shuffle) if shuffle else dset
     dset = dset.batch(bsize)
     # dset = dset.map(BatchAdvAugment, num_parallel_calls=AUTO) if augmentAdv else dset
