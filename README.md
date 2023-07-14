@@ -10,8 +10,12 @@ In the IEEE 36th International Symposium on Computer Based Medical Systems (CBMS
 
 Detail of each model modules can be found in original paper. Please citation if you use our implementation for research purpose.
 
+### Note: 
+
+You should install the ```keras_cv_attention_models==1.3.9``` to keep the original model, the new model base on the change of the Caformer will be updated
+
 ## :new: News:
-- Upcomming: Supervision version
+- Upcoming: Update the Knowledge Distillation for smaller backbone, and update the code for M2UNet.
 
 - 30/05/2023: Our paper "Meta-former UNet: Simple but effcient" is accepted EUSIPCO 2023. This is the specific concept of the Meta-former with UNet
 
