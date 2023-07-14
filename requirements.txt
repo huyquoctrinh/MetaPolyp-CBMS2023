@@ -5,3 +5,4 @@ tqdm
 scikit-learn
 numpy
 matplotlib
+keras-cv-attention-models==1.3.9
