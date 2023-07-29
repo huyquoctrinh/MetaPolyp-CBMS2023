@@ -87,6 +87,8 @@ The pretrained weight for the MetaPolyp can found at [Google Drive](https://driv
 
 In our experiment, we use the dataset config from [PraNet](https://github.com/DengPingFan/PraNet), with training set from 50% of Kvasir-SEG and 50% of ClinicDB dataset. 
 
+The dataset download link can be found at [https://drive.google.com/drive/folders/10SYLHNvO0fSrhhVhj5U-cFgOnTH5uGJf?usp=sharing](Google drive)
+
 With our test dataset, we use the following:
 
 In same distribution:
