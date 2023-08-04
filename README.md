@@ -144,5 +144,23 @@ You can change the backbone from Ca-former to PVT or something else to get diffe
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
+
+@INPROCEEDINGS {10178713,
+author = {Q. Trinh},
+booktitle = {2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)},
+title = {Meta-Polyp: A Baseline for Efficient Polyp Segmentation},
+year = {2023},
+volume = {},
+issn = {},
+pages = {742-747},
+abstract = {In recent years, polyp segmentation has gained significant importance, and many methods have been developed using CNN, Vision Transformer, and Transformer techniques to achieve competitive results. However, these methods often face difficulties when dealing with out-of-distribution datasets, missing boundaries, and small polyps. In 2022, Meta-Former was introduced as a new baseline for vision, which not only improved the performance of multi-task computer vision but also addressed the limitations of the Vision Transformer and CNN family backbones. To further enhance segmentation, we propose a fusion of Meta-Former with UNet, along with the introduction of a Multi-scale Upsampling block with a level-up combination in the decoder stage to enhance the texture, also we propose the Convformer block base on the idea of the Meta-former to enhance the crucial information of the local feature. These blocks enable the combination of global information, such as the overall shape of the polyp, with local information and boundary information, which is crucial for the decision of the medical segmentation. Our proposed approach achieved competitive performance and obtained the top result in the State of the Art on the CVC-300 dataset, Kvasir, and CVC-ColonDB dataset. Apart from Kvasir-SEG, others are out-of-distribution datasets.},
+keywords = {computer vision;shape;transformers;multitasking;decoding;task analysis;faces},
+doi = {10.1109/CBMS58004.2023.00312},
+url = {https://doi.ieeecomputersociety.org/10.1109/CBMS58004.2023.00312},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {jun}
+}
+
 ```
 
