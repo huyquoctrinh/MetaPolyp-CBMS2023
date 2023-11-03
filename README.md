@@ -1,5 +1,13 @@
 # Meta-Polyp: a baseline for efficient Polyp segmentation, CBMS 2023 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/meta-polyp-a-baseline-for-efficient-polyp/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=meta-polyp-a-baseline-for-efficient-polyp)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/meta-polyp-a-baseline-for-efficient-polyp/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=meta-polyp-a-baseline-for-efficient-polyp)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/meta-polyp-a-baseline-for-efficient-polyp/medical-image-segmentation-on-cvc)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc?p=meta-polyp-a-baseline-for-efficient-polyp)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/meta-polyp-a-baseline-for-efficient-polyp/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=meta-polyp-a-baseline-for-efficient-polyp)
+
 This repo is the official implementation for paper:
 
 Meta-Polyp: a baseline for efficient Polyp segmentation.
